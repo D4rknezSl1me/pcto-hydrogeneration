@@ -22,7 +22,7 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.jpg";
 import logo from "./logo.png";
-import logo_with_background from "./logo_with_background.jpeg";
+import logo_with_background from "./logo_with_background.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
