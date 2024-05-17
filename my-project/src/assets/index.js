@@ -26,6 +26,7 @@ import logo_with_background from "./logo_with_background.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
+import water from "./hero/water.jpg";
 import heroBackground from "./hero/hero-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
@@ -106,6 +107,7 @@ export {
   background,
   curve,
   robot,
+  water,
   heroBackground,
   curve1,
   curve2,
