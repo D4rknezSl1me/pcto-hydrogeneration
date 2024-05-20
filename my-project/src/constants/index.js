@@ -59,8 +59,8 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "New account",
-    url: "#signup",
+    title: "Our Contacts",
+    url: "#footer",
     onlyMobile: true,
   },
   {
