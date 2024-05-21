@@ -1,5 +1,10 @@
 # pcto-hydrogeneration
 Progetto PCTO
+# Before you Start Coding
+```bat
+git fetch
+git pull
+```
 # To make a pull request
 ```bat
 git checkout -b bosiux-branch
